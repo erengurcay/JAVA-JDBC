@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f65a7201-ce5f-4f58-8a1a-44f34407df6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jdbc1/DbHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jdbc1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jdbc1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jdbc2/DbHelper2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jdbc2/DbIslemleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jdbc2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jdbc2/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +37,27 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.33.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Jdbc2.Main">
+    <configuration name="Jdbc2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jdbc2.Main" />
+      <module name="JavaJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jdbc2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jdbc1.Main" />
       <module name="JavaJDBC" />
@@ -62,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jdbc2.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
