@@ -35,7 +35,7 @@ public class VeritabaniIslemleri {
                             updateStatement.executeUpdate();
                             System.out.println("Kayıt güncellendi");
                         }
-                    } else { // Yeni bir kayıt ekle
+                    } else {
                         String insertSql = "INSERT INTO `ts2`.`dor` (user_name, dor_count, sky_box) VALUES (?, ?, ?)";
                         try (PreparedStatement insertStatement = connection.prepareStatement(insertSql)) {
                             insertStatement.setString(1, user.getUser_name());

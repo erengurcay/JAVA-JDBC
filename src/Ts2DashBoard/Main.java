@@ -1,8 +1,4 @@
 package Ts2DashBoard;
-
-import Jdbc2.DbIslemleri;
-import Jdbc2.Ogrenci;
-
 import java.util.Scanner;
 
 public class Main {

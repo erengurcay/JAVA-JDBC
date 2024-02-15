@@ -13,7 +13,7 @@ public class Dbhelper3 {
         return DriverManager.getConnection(dbUrl,userName,password);
 
     }
-    public void shorErrorMessage(SQLException exception){
+    public void shovErrorMessage(SQLException exception){
         System.out.println("Error : "+ exception.getMessage());
         System.out.println("Error code : " + exception.getErrorCode());
     }
