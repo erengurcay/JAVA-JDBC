@@ -10,7 +10,9 @@ public class Main {
         int ogr_no = scanner.nextInt();
 
         System.out.println("Adınızı giriniz: ");
+        scanner.nextLine();
         String ogr_name = scanner.nextLine();
+
 
         System.out.println("Soyadınızı giriniz: ");
         String ogr_surname = scanner.nextLine();
